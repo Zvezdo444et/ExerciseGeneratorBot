@@ -1,0 +1,25 @@
+[ {
+  "exerciseId" : "1",
+  "exerciseName" : "Отжимания \uD83D\uDC50",
+  "exerciseDescription" : "обычные отжимания"
+}, {
+  "exerciseId" : "2",
+  "exerciseName" : "Отжимания ↔️",
+  "exerciseDescription" : "отжимания с широким хватом"
+}, {
+  "exerciseId" : "3",
+  "exerciseName" : "Отжимания \uD83D\uDC8E",
+  "exerciseDescription" : "отжимания с узким хватом"
+}, {
+  "exerciseId" : "4",
+  "exerciseName" : "Гантели \uD83C\uDFCB️‍♂️",
+  "exerciseDescription" : "поднятие гантелий на бицепс"
+}, {
+  "exerciseId" : "5",
+  "exerciseName" : "Гантели \uD83C\uDFCB️‍♂️",
+  "exerciseDescription" : "поднятие гантелий на трицепс"
+}, {
+  "exerciseId" : "6",
+  "exerciseName" : "Пресс \uD83E\uDDF1",
+  "exerciseDescription" : "скручивания"
+} ]
