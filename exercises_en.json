@@ -1,0 +1,25 @@
+[ {
+  "exerciseId" : "1",
+  "exerciseName" : "Push-ups \uD83D\uDC50",
+  "exerciseDescription" : "regular push-ups"
+}, {
+  "exerciseId" : "2",
+  "exerciseName" : "Push-ups ↔️",
+  "exerciseDescription" : "wide-grip push-ups"
+}, {
+  "exerciseId" : "3",
+  "exerciseName" : "Push-ups \uD83D\uDC8E",
+  "exerciseDescription" : "close-grip push-ups"
+}, {
+  "exerciseId" : "4",
+  "exerciseName" : "Dumbbells \uD83C\uDFCB️‍♂️",
+  "exerciseDescription" : "dumbbell bicep curls"
+}, {
+  "exerciseId" : "5",
+  "exerciseName" : "Dumbbells \uD83C\uDFCB️‍♂️",
+  "exerciseDescription" : "dumbbell triceps curls"
+}, {
+  "exerciseId" : "6",
+  "exerciseName" : "Press \uD83E\uDDF1",
+  "exerciseDescription" : "twisting"
+} ]
